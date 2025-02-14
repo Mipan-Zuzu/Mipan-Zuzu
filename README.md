@@ -22,9 +22,12 @@
 <!-- Statistik GitHub -->
 ## 📊 My Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKA-LG&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SAKA-LG&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAKA-LG&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowdHM2ODNtNTRwdnhqdXdtNW9wMG05endpYXpuMWMxdzhqc2JlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKA-LG&layout=compact&langs_count=8&theme=radical" alt="Used" />
 </p>
 
 ---
