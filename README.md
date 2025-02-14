@@ -16,6 +16,8 @@
 - ⚡ Can use framework <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="30">
 - 🎯 Passionate about **Frontend & Backend Development**.
 - 📫 Reach me at: (kadekisaka00@gmail.com | kadekisaka28@icloud.com)
+- 
+  ![GitHub Contributions](https://img.shields.io/github/contributors/SAKA-LG/SAKA-LG)
 
 ---
 
@@ -28,6 +30,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKA-LG&layout=compact&langs_count=8&theme=radical" alt="Used" />
+  
 </p>
 
 ---
@@ -57,7 +60,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKA-LG&theme=dark" />
   
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SAKA-LG)
-  ![GitHub Contributions](https://img.shields.io/github/contributors/SAKA-LG/SAKA-LG)
 </p>
 
 
