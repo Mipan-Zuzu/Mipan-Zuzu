@@ -8,10 +8,14 @@
 
 <!-- Deskripsi Diri -->
 ## ✨ About Me
-Saya role nya sebagai fullstak web develop, aktif di beberapa project open sorce, Sekarang saya berdomisili di Bali/Gianyar , Murid Sekolah SMK NEGRI 3 SUKAWATI JURUSAN RPL , Saya siap berkontribusi dan solve problem together in my team 
+Saya role nya sebagai fullstak web develop, aktif di beberapa project open sorce,
+Sekarang saya berdomisili di Bali/Gianyar , Murid Sekolah SMK NEGRI 3 SUKAWATI JURUSAN RPL 
+, Saya siap berkontribusi dan solve problem together in my team.
 
 --📧 = kadekisaka00@gmail.com
+
 --📧 = kadekisaka28@icloud.com
+
 ---
 
 <!-- Statistik GitHub -->
