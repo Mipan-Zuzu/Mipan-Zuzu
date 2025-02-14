@@ -1,11 +1,14 @@
 <!-- Header Animasi dengan Nama -->
+<P>
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+bali+i+love+code+work+with+together+😗)
+</P>
 
 <!-- Foto Profil -->
+<p>
 <p align="center">
   <img src="gws.png" width="280" height="490" style="border-radius: 50%;" />
 </p>
-
+</p>
 <!-- Deskripsi Diri -->
 ## ✨ About Me
 Saya role nya sebagai fullstak web develop, aktif di beberapa project open sorce,
