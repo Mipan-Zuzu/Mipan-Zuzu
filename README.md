@@ -55,7 +55,14 @@
 ## Activity
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKA-LG&theme=dark" />
+  
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SAKA-LG)
+  ![GitHub Contributions](https://img.shields.io/github/contributors/SAKA-LG/SAKA-LG)
 </p>
+
+
+
+
 
 
 <!-- Animasi Footer -->
