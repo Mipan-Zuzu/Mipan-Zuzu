@@ -47,13 +47,15 @@
 
 ---
 
+![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
+
 <!-- Quotes -->
 ## 🌟 Quotes
 > *Do The Best And God Do The Rest*
 
 ---
 
-![Bye](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading+See+U+🤗)
+
 
 ## Activity
 <p align="center">
