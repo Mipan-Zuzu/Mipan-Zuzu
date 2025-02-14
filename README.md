@@ -3,7 +3,7 @@
 
 <!-- Foto Profil -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/SAKA-LG" width="150" height="150" style="border-radius: 50%;" />
+  <img src="gw.jpg" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <!-- Deskripsi Diri -->
