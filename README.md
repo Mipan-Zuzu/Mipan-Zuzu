@@ -1,9 +1,13 @@
 <!-- Header Animasi dengan Nama -->
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+Bali+I+love+code+work+with+together+😗)
 
-<!-- Foto Profil -->
+<!-- Foto Profil dengan Elemen Animasi -->
 <p align="center">
   <img src="gws.png" width="280" height="490" style="border-radius: 50%;" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt5RrMZfl5otXXi/giphy.gif" width="50" /> <!-- Animasi pixel move di sekitar foto -->
+  <img src="https://media.giphy.com/media/26tPzzZyD0MmIU0J2/giphy.gif" width="70" /> <!-- Animasi bergerak -->
 </p>
 
 ---
@@ -57,5 +61,4 @@ Saya siap berkontribusi dan **solve problems together** in my team.
 
 <!-- Animasi Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 
