@@ -1,7 +1,8 @@
-<!-- Header Animasi dengan Nama -->
-<h1 align="center">
+<!-- Header Animasi Pixel Art -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<p></p>
+
   ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+Bali+i+love+code+work+with+together+😗)
-</h1>
 
 <!-- Foto Profil -->
 <p align="center">
@@ -10,8 +11,10 @@
 
 ---
 
-<!-- Hi I'm ISAKA -->
-<h2 align="center">Hi I'm ISAKA 👋</h2>
+<!-- Animasi Mengetik di Bawah Foto -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+I'm+ISAKA+👋;I'm+a+Fullstack+Web+Developer;I+love+creating+cool+projects!;Let's+work+together+and+solve+problems!">
+</p>
 
 ---
 
@@ -53,3 +56,4 @@ Saya siap berkontribusi dan **solve problems together** in my team.
 
 <!-- Animasi Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
