@@ -3,7 +3,7 @@
 
 <!-- Foto Profil -->
 <p align="center">
-  <img src="gw.jpg" width="400" height="350" style="border-radius: 50%;" />
+  <img src="gw.jpg" width="350" height="350" style="border-radius: 50%;" />
 </p>
 
 <!-- Deskripsi Diri -->
