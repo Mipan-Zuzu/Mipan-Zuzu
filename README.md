@@ -34,6 +34,12 @@
 
 ---
 
+## 🏢 Team Company
+
+<p align="center">
+  <img src="gwesh.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 
 ## 🛠️ Knowledge and learning
 <p align="center">
