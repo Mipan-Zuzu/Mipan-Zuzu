@@ -1,15 +1,14 @@
-<!-- Header Animasi -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=HI%20This%20My%20GitHub!&fontSize=30&fontColor=fff&animation=fadeIn)
 
 
-<!-- Foto Profil -->
+
 <p align="center">
   <img src="gwesh.png" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+bali+i+love+code+work+with+together+😗)
 
-<!-- Deskripsi Diri -->
+
 ## ✨ U Must Know Me
 - 🧑‍💻 I’m a **Fullstack Web Developer**.
 - 🌱 Currently learning **JavaScript & Java**.
@@ -21,7 +20,7 @@
 
 ---
 
-<!-- Statistik GitHub -->
+
 ## 📊 My Stats GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAKA-LG&show_icons=true&theme=radical" alt="Stats" />
@@ -35,7 +34,7 @@
 
 ---
 
-<!-- Bahasa & Tools -->
+
 ## 🛠️ Knowledge and learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,bash,npm,vite" />
@@ -49,7 +48,7 @@
 
 ![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
 
-<!-- Quotes -->
+
 ## 🌟 Quotes
 > *Do The Best And God Do The Rest*
 
@@ -65,9 +64,4 @@
 </p>
 
 
-
-
-
-
-<!-- Animasi Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
