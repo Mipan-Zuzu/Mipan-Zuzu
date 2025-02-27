@@ -36,9 +36,9 @@
 ---
 
 <!-- Bahasa & Tools -->
-## 🛠️ Knowledge
+## 🛠️ Knowledge and learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,bash,npm,vite" />
 </p>
 
 <p align="center">
