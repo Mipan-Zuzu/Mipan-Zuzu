@@ -6,6 +6,13 @@
   <img src="gwesh.png" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
+<p></p>
+  <p align="center">
+    <a href="https://www.instagram.com/mipanzuzuzuz123/">
+      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="820" height="220" />
+    </a>
+</p>
+
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+bali+i+love+code+work+with+together+😗)
 
 
@@ -22,12 +29,7 @@
 
 
 ## 📊 My Stats GitHub
-<p></p>
-  <p align="center">
-    <a href="https://youtube.com/@deaafrizal">
-      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="600" height="120" />
-    </a>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAKA-LG&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowdHM2ODNtNTRwdnhqdXdtNW9wMG05endpYXpuMWMxdzhqc2JlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
