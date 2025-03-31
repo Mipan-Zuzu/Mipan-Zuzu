@@ -17,16 +17,17 @@
 - 📫 Reach me at: (kadekisaka00@gmail.com | kadekisaka28@icloud.com)
 - 
   ![GitHub Contributions](https://img.shields.io/github/contributors/SAKA-LG/SAKA-LG)
-  <p align="center">
-    <a href="https://youtube.com/@deaafrizal">
-      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="600" height="120" />
-    </a>
-</p>
 
 ---
 
 
 ## 📊 My Stats GitHub
+<p></p>
+  <p align="center">
+    <a href="https://youtube.com/@deaafrizal">
+      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAKA-LG&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowdHM2ODNtNTRwdnhqdXdtNW9wMG05endpYXpuMWMxdzhqc2JlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
