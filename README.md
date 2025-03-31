@@ -8,6 +8,12 @@
 
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+bali+i+love+code+work+with+together+😗)
 
+<p align="center">
+    <a href="https://youtube.com/@deaafrizal">
+      <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
+
 
 ## ✨ U Must Know Me
 - 🧑‍💻 I’m a **Fullstack Web Developer**.
