@@ -9,7 +9,7 @@
 <p></p>
   <p align="center">
     <a href="https://www.instagram.com/mipanzuzuzuz123/">
-      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="820" height="220" />
+      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="820" height="100" />
     </a>
 </p>
 
