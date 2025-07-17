@@ -1,21 +1,30 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20&fontSize=30&fontColor=fff&animation=fadeIn)
+<div align="center">
+  <img width="180" src="nama.png" alt="Mipan-Logo" />
+  
+  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there,I'm Mipan
+  
+  <p>
+    <em>A passionate student developer from Indonesia</em><br>
+    <em>I Love a dog 🐶 and Cat 😺</em>
+  </p>
 
-
-
-<p align="center" style="margin-right: 20%;">
-  <img src="name.png" width="450" height="450" style="border-radius: 50%;" />
-</p>
-
-<p></p>
-  <p align="center">
-    <a href="https://www.instagram.com/mipanzuzuzuz123/">
-      <img src="https://render.gitanimals.org/lines/Mipan-Zuzu?pet-id=657051833278790750" width="820" height="100" />
-    </a>
-</p>
+  <a href="https://www.linkedin.com/in/kadek-isaka/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Mipan-Zuzu" />
+</a>
+  <a href="https://discord.com/users/858201924795629569">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Mipan-Zuzu" />
+  </a>
+  <a href="https://github.com/Mipan-Zuzu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Mipan-Zuzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mipan-Zuzu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Mipan-Zuzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</div>
 
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+There+thanks+for+comming;This+my+GitHub+profile!;)
 
-
+---
 ## ✨ U Must Know Me
 - 🧑‍💻 I’m a **Fullstack Web Developer**.
 - 🌱 Currently learning **JavaScript & Java**.
