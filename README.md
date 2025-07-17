@@ -1,19 +1,19 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=HI%20This%20My%20GitHub!&fontSize=30&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20%20&fontSize=30&fontColor=fff&animation=fadeIn)
 
 
 
-<p align="center">
-  <img src="gwesh.png" width="150" height="150" style="border-radius: 50%;" />
+<p align="center" style="margin-right: 20%;">
+  <img src="name.png" width="450" height="450" style="border-radius: 50%;" />
 </p>
 
 <p></p>
   <p align="center">
     <a href="https://www.instagram.com/mipanzuzuzuz123/">
-      <img src="https://render.gitanimals.org/lines/SAKA-LG?pet-id=657051833278790750" width="820" height="100" />
+      <img src="https://render.gitanimals.org/lines/Mipan-Zuzu?pet-id=657051833278790750" width="820" height="100" />
     </a>
 </p>
 
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+I’m+ISAKA+😎;Welcome+This+my+GitHub+profile!;+I+live+in+bali+i+love+code+work+with+together+😗)
+![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+There+thanks+for+comming;This+my+GitHub+profile!;)
 
 
 ## ✨ U Must Know Me
@@ -23,7 +23,6 @@
 - 🎯 Passionate about **Frontend & Backend Development**.
 - 📫 Reach me at: (kadekisaka00@gmail.com | kadekisaka28@icloud.com)
 - 
-  ![GitHub Contributions](https://img.shields.io/github/contributors/SAKA-LG/SAKA-LG)
 
 ---
 
@@ -31,12 +30,12 @@
 ## 📊 My Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAKA-LG&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mipan-Zuzu&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowdHM2ODNtNTRwdnhqdXdtNW9wMG05endpYXpuMWMxdzhqc2JlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKA-LG&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mipan-Zuzu&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -64,9 +63,9 @@
 
 ## Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKA-LG&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mipan-Zuzu&theme=dark" />
   
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SAKA-LG)
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mipan-Zuzu)
 </p>
 
 
