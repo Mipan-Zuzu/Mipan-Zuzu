@@ -35,7 +35,6 @@
 
 ---
 
-
 ## 📊 My Stats GitHub
 
 <p align="center">
@@ -60,15 +59,25 @@
 
 ---
 
-![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
+## 🏅 Certificates
+<p align="center">
+  <!-- Ganti link berikut dengan URL gambar sertifikatmu -->
+  <img src="https://via.placeholder.com/300x200.png?text=Certificate+1" alt="Certificate 1" width="300" />
+  <img src="https://via.placeholder.com/300x200.png?text=Certificate+2" alt="Certificate 2" width="300" />
+</p>
 
+<p align="center">
+  📝 *More certificates will be added soon...*
+</p>
+
+---
+
+![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
 
 ## 🌟 Quotes
 > *Do The Best And God Do The Rest*
 
 ---
-
-
 
 ## Activity
 <p align="center">
@@ -76,6 +85,5 @@
   
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mipan-Zuzu)
 </p>
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
