@@ -65,10 +65,6 @@
   <img src="certivIBM.png" alt="Certificate 1" width="300" />
 </p>
 
-<p align="center">
-  📝 *More certificates will be added soon...*
-</p>
-
 ---
 
 ![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
