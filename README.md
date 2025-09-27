@@ -62,8 +62,7 @@
 ## 🏅 Certificates
 <p align="center">
   <!-- Ganti link berikut dengan URL gambar sertifikatmu -->
-  <img src="https://via.placeholder.com/300x200.png?text=Certificate+1" alt="Certificate 1" width="300" />
-  <img src="https://via.placeholder.com/300x200.png?text=Certificate+2" alt="Certificate 2" width="300" />
+  <img src="certivIBM.png" alt="Certificate 1" width="300" />
 </p>
 
 <p align="center">
