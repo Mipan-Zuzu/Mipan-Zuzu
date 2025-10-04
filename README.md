@@ -31,7 +31,9 @@
 - ⚡ Can use framework <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="30">
 - 🎯 Passionate about **Frontend & Backend Development**.
 - 📫 Reach me at: (kadekisaka00@gmail.com | kadekisaka28@icloud.com)
-- 
+
+![Profile views](https://komarev.com/ghpvc/?username=Mipan-Zuzu&color=blue)
+
 
 ---
 
