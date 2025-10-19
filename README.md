@@ -25,17 +25,6 @@
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+There+thanks+for+comming;This+my+GitHub+profile!;)
 
 ---
-## ✨ U Must Know Me
-- 🧑‍💻 I’m a **Fullstack Web Developer**.
-- 🌱 Currently learning **JavaScript & Java**.
-- ⚡ Can use framework <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="30">
-- 🎯 Passionate about **Frontend & Backend Development**.
-- 📫 Reach me at: (kadekisaka00@gmail.com | kadekisaka28@icloud.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=Mipan-Zuzu&color=blue)
-
-
----
 
 ## 📊 My Stats GitHub
 
