@@ -52,8 +52,8 @@
 
 ## 🏅 Certificates
 <p align="center">
-  <!-- Ganti link berikut dengan URL gambar sertifikatmu -->
   <img src="certivIBM.png" alt="Certificate 1" width="300" />
+  <img src="awsCloud.png" alt="Certificate 2" width="300" />
 </p>
 
 ---
