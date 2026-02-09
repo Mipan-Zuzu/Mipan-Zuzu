@@ -55,6 +55,7 @@
 <p align="center">
   <img src="certivIBM.png" alt="Certificate 1" width="300" />
   <img src="awsCloud.png" alt="Certificate 2" width="300" />
+  <img src="document.jpg" alt="Certificate 3" width="400" />
 </p>
 
 ---
