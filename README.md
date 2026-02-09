@@ -41,7 +41,8 @@
 
 ## 🛠️ Knowledge and learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,bash,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,bash,npm,vite,typescript" /> <br />
+  <img src="https://skillicons.dev/icons?i=git,express,redux,mongodb,aws,cloudflare,nextjs,pnpm" />
 </p>
 
 <p align="center">
