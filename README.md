@@ -39,19 +39,36 @@
 
 ---
 
-## 🛠️ Knowledge and learning
+## 🛠️ Knowledge and Learning
+
 <p align="center">
-  <p>frontEnd</p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,typescript,redux" /> <br />
-  <p>BackEnd</p>
-  <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,bash,npm,pnpm" /> <br />
-  <p>DevOps</p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,netlify,vercel,azure" /> <br />
-  <p>Database</p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /> <br />
-  <p>Tools</p>
-    <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,figma,postman,gitlab" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,typescript,redux" />
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,bash,npm,pnpm" />
+<br/><br/>
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,netlify,vercel,azure" />
+<br/><br/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,figma,postman,gitlab" />
+
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200px" />
