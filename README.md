@@ -42,31 +42,21 @@
 
 <div align="center">
 
-### Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,typescript,redux&perline=9" />
 
 <br/>
-
-### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,npm,pnpm,bash&perline=6" />
 
 <br/>
 
-### DevOps
-
 <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,netlify,vercel,azure&perline=6" />
 
 <br/>
 
-### Database
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&perline=3" />
 
 <br/>
-
-### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,neovim,vscode,figma,postman&perline=7" />
 
