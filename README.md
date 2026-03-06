@@ -41,8 +41,16 @@
 
 ## 🛠️ Knowledge and learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,bash,npm,vite,typescript" /> <br />
-  <img src="https://skillicons.dev/icons?i=git,express,redux,mongodb,aws,cloudflare,nextjs,pnpm" />
+  <p>frontEnd</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,typescript,redux" /> <br />
+  <p>BackEnd</p>
+  <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,bash,npm,pnpm" /> <br />
+  <p>DevOps</p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,netlify,vercel,azure" /> <br />
+  <p>Database</p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /> <br />
+  <p>Tools</p>
+    <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,figma,postman,gitlab" />
 </p>
 
 <p align="center">
