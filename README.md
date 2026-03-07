@@ -29,12 +29,8 @@
 ## 📊 My Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mipan-Zuzu&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mipan-zuzu" alt="Stats" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowdHM2ODNtNTRwdnhqdXdtNW9wMG05endpYXpuMWMxdzhqc2JlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mipan-Zuzu&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -64,7 +60,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200px" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 
 ---
@@ -80,7 +76,7 @@
 
 ![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
 
-## 🌟 Quotes
+## Quotes
 > *Do The Best And God Do The Rest*
 
 ---
@@ -89,7 +85,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mipan-Zuzu&theme=dark" />
   
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mipan-Zuzu)
+  <img src="https://github-profile-trophy-3xhuiaolz-ryo-ma-s-team.vercel.app/?username=Mipan-Zuzu&theme=dark" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
