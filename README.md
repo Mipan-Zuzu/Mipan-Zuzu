@@ -50,7 +50,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,netlify,vercel,azure&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,podman ,aws,cloudflare,netlify,vercel,azure&perline=6" />
 
 <br/>
 
