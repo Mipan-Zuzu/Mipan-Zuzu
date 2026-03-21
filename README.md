@@ -56,6 +56,8 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,neovim,vscode,figma,postman&perline=7" />
 
+<img src="https://cdn.simpleicons.org/huggingface" width="48" />
+
 </div>
 
 
