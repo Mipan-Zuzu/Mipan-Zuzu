@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="280" src="icon.png" alt="Mipan-Logo" />
+  <img width="380" src="icon.png" alt="Mipan-Logo" />
   
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there,I'm Mipan
   
