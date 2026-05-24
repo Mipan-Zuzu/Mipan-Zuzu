@@ -79,7 +79,7 @@
 ![Seeu](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Tangks+For+Reading;See+U+☺️👌)
 
 ## Quotes
-> *Do The Best And God Do The Rest*
+<h1>I'm not afraid of getting tired. I'm afraid of being ordinary, then dying without ever making the world realize who the craziest person is in chasing dreams.</h1>
 
 ---
 
