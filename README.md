@@ -5,7 +5,7 @@
   
   <p>
     <em>A passionate student developer from Indonesia</em><br>
-    <em>I Love a dog 🐶 and Cat 😺</em>
+    <em>I Love a dog 🐶 and Cat 😺 UwU</em>
   </p>
 
   <a href="https://www.linkedin.com/in/kadek-isaka/" target="_blank">
