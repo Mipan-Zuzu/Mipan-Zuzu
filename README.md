@@ -83,11 +83,17 @@
 
 ---
 
+## The snake are full now
+
+<img src="https://raw.githubusercontent.com/Mipan-Zuzu/Mipan-Zuzu/output/github-contribution-grid-snake.svg" />  
+
+---
+
 ## Activity
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mipan-Zuzu&theme=dark" />
   
-  <img src="https://github-profile-trophy-3xhuiaolz-ryo-ma-s-team.vercel.app/?username=Mipan-Zuzu&theme=dark" />
+  <img src="https://github-trophies.devomb.com/?username=Mipan-Zuzu&theme=dark" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
