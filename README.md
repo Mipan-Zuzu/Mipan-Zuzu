@@ -67,6 +67,13 @@
 
 ---
 
+##  🎮Discord-User
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/858201924795629569?idleMessage=lazzy%20%E1%B6%BB%20%F0%9D%98%87%20%F0%9D%97%AD&hideBadges=true&theme=light"/>
+</p>
+
+---
+
 ## 🏅 Certificates
 <p align="center">
   <img src="certivIBM.png" alt="Certificate 1" width="300" />
