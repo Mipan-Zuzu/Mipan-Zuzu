@@ -31,6 +31,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mipan-zuzu" alt="Stats" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnowdHM2ODNtNTRwdnhqdXdtNW9wMG05endpYXpuMWMxdzhqc2JlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" />
+  <img src="https://lanyard.cnrad.dev/api/858201924795629569?idleMessage=lazzy%20%E1%B6%BB%20%F0%9D%98%87%20%F0%9D%97%AD&hideBadges=true&theme=light"/>
 </p>
 
 ---
@@ -63,13 +64,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</p>
-
----
-
-##  🎮Discord-User
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/858201924795629569?idleMessage=lazzy%20%E1%B6%BB%20%F0%9D%98%87%20%F0%9D%97%AD&hideBadges=true&theme=light"/>
 </p>
 
 ---
